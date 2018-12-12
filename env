@@ -1,0 +1,5 @@
+MAIL_USERNAME=eruk@qq.com
+MAIL_PASSWORD=npdccczdxxbecbdb
+FLASK_ADMIN=eruk@qq.com
+MAIL_SERVER=smtp.qq.com
+FLASKY_MAIL_SENDER=eruk@qq.com	
